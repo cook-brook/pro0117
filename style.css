@@ -22,3 +22,27 @@
     background-color:black;
 
 }
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px,5px,5px grey;
+    margin-top: 100px;
+  
+
+}
+.result_para{
+    font-size: 25px;
+    color: white;
+    background: grey;
+}
+.copyright_footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background: grey;
+    color: white;
+    text-align: center;
+    line-height: 3;
+
+
+}
